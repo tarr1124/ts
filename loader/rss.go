@@ -2,7 +2,7 @@ package loader
 
 import (
 	"encoding/xml"
-	r "github.com/jteeuwen/go-pkg-rss"
+	r "github.com/muesli/go-pkg-rss"
 	"io/ioutil"
 	"net/http"
 	"strings"
